@@ -1,0 +1,5 @@
+test,statistic,p_value,interpretation
+Mann-Kendall (yearly fraction),-0.4727272727272727,3.60075061323073e-07,Kendall's tau = -0.473; trend = decreasing; p = 0.0000
+Pearson r (year vs mean_tithing_score),-0.5070318899428512,7.80174039953494e-05,"r = -0.507, p = 0.0001"
+One-way ANOVA (decades vs mean_tithing_score),4.08959660170589,0.0035051233273171445,"F = 4.090, p = 0.0035"
+Linear regression (year → tithing_fraction),-0.002678543709628088,1.1716959199181864e-08,"slope = -0.00268 fraction/year, R² = 0.462, p = 0.0000"
